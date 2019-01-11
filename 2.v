@@ -1,4 +1,4 @@
 amiya
 b1
-trigger 23
+trigger 255
 lll
