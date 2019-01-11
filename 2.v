@@ -2,7 +2,7 @@ amiya
 
 b1
 h
-ii
+i
 b1k
 trigger12
 lll
