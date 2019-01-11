@@ -1,3 +1,3 @@
 amiya
 b1
-trigger 6
+trigger 7
