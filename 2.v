@@ -1,4 +1,4 @@
 amiya
 b1
-trigger 9
+trigger 10
 lll
