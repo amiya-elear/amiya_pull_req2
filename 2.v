@@ -1,4 +1,4 @@
 amiya
 b1
-trigger kk
+trigger12
 lll
