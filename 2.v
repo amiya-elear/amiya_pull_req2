@@ -1,4 +1,4 @@
 amiya
 b1
-trigger 22
+trigger 23
 lll
